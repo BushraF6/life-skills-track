@@ -4,7 +4,7 @@
 
 - Full-text search is a technique used in information retrieval that allows searching for documents or data based on the presence of keywords or phrases within the entire text of the document.
 
-### **Why to use?** ###
+### **Why to use it?** ###
 
 - Unlike traditional search methods that rely on simple matching of keywords, full text search takes context, synonyms, and word proximity into account to provide more relevant search results.
 - This technique is much faster than string searches for large amounts of data.
@@ -55,7 +55,7 @@
 - Elasticsearch is a search engine based on the Lucene library.
 - It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents.
 
-### **Why to use Elastic Search** ###
+### **Why to use Elastic Search?** ###
 
 - Best suited for
   - Log analytics
