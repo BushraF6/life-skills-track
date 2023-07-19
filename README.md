@@ -17,8 +17,8 @@
 ### References ###
 
 ## Sexual Harassment ##
-### What is Sexual Harassment ###
-### Actions need to be taken ###
-### Different Scenarios ###
+- What is Sexual Harassment ###
+- Actions need to be taken ###
+- Different Scenarios ###
 
 
