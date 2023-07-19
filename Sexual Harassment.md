@@ -63,3 +63,17 @@ Employees have the right to work in an environment free from any sexual harassme
 
 Making inappropriate comments or suggestions that may hinder or insult someone and make them upset.
 
+## How to behave appropriately ##
+
+- Don't have anything that is off-color or of sexual nature content on posters, bulletin board or homescreen to display which may make someone feel uncomforatable.
+
+- Be careful of jokes, especially when it is of sexual nature. This might upset or discomfort someone.
+
+- If someone signaled or stated their interest or opinion either directly or in directly, akcowledge it and don't bother them repeatedly.
+
+- If someone is okay with something like casual hugging, kissing on cheek, touching or any gestures doesn't mean it should be the same incase of others. Don't try to enforce it on them.
+
+- Make sure be it from your side or from others, don't mess up the work environment. It should be free of any sexual harassment.
+
+- Be careful in making suggestions, compliments, or jokes. It should be relevant, appropriate which shouldn't hurt anyone's feeling or demotivate them.
+
