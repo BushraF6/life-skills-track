@@ -21,4 +21,10 @@
 - Actions need to be taken.
 - Different Scenarios.
 
+## Learning Process ##
+
+## Listening & Communication Skills ##
+
+## Grit & Growth Mind Skill ##
+
 
