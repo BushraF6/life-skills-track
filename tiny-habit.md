@@ -70,6 +70,79 @@ we keep this 1% error day after day then they’ll accumulate into larger proble
 - Time magnifies the margin between success and failure. It will multiply whatever
 you feed it. Good habits make time your ally and bad habits make time your enemy.
 
+## Book Summary of Atomic Habits ##
+
+### Habit Formation ###
+
+There are three layers of behaviuor change:
+
+- Outcomes: Concerns about changing the result.
+- Processes: This relates to habits and the system.
+- Identity: This is related to our beliefs.
+
+Most of us work from outcome to identity rather than identity to outcome. The
+ultimate form of intrinsic motivation is when a habit becomes a part of identity.
+
+When we solve problems in terms of outcomes, we only solve them temporarily
+but to solve problems in longer terms, we need to change our Identity.
+
+### Make Good Habit Easier ###
+
+By following the four laws of behavior change we can build good habits:
+
+- Make it obvious: Keep the things that you need or remind you to do the
+habit near to you (making it visible).
+- Make it attractive: Make your good habit to be built so good and attractive
+that you crave to do it.
+- Make it easy: Reduce the friction between the thing which you need or
+remind you to do the habit by keeping them near to you so you don’t need
+more effort to go or to do it.
+- Make it satisfying: We all love immediate rewards rather than delayed
+rewards and what is immediately rewarded is repeated.
+
+### Make Bad Habit Difficult ###
+
+By following the four laws of behavior change we  can make bad habits difficult.
+
+- Make it Invisible: Keep the things that you need or remind you to do the
+bad habit far away from you (making it invisible).
+- Make it ugly: Try to make the bad habit appear so ugly or bad that you won’t
+like to do it.
+- Make it hard: Increase the friction between the thing which you get or
+remind you to do the bad habit by keeping them away from you so you
+need more effort to go towards or to do it.
+- Make it unsatisfying: We all hate punishments and what is immediately.
+
+## Reflect ##
+
+### Make Good Habit Obviuos and Satisfying ###
+
+Working out is something I would really like to do but I often find myself procrastinating or
+feeling lazy to do it so. But now I can apply those four laws:
+
+- Make it obvious: Keep the things that I need or remind me to do the
+workout near me. (Making it visible).
+- Make it attractive: I can listen to my favorite podcast while I workout can
+help me to make it appealing.
+- Make it easy: Reduce the friction by keeping workout dress ready at night
+and keeping it near so it reduces my effort to get ready and go to the gym.
+- Make it satisfying: I can reward myself with delicious meals but will make
+sure that would be healthy.
+
+### Eliminate Bad Habit ###
+
+Intake of junk or processed food is something I want to reduce or eliminate. But now I can
+apply those four laws:
+
+- Make it Invisible: Keep the chips, chocolates and all the junk food away
+from my sight.
+- Make it ugly: Research the facts or problems that are caused by junk foods
+which would make me avoid it.
+- Make it hard: Increase the friction between junk food so I would need more
+effort to go towards or to do it.
+- Make it unsatisfying: Keeping penalty of 20 minutes workout if I got my
+hands into the bag of chips.
+
 ## References ##
 
 - <https://www.youtube.com/watch?v=AdKUJxjn-R8>
