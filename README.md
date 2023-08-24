@@ -29,4 +29,8 @@
 
 ## Tiny Habits ##
 
+## Energy Management ##
+
+## Focus Management ##
+
 
