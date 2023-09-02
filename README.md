@@ -13,8 +13,6 @@
 - Why to use Elastic Search?
 ### Solr ###
 - Solr and its feautures
-### Solr VS Elastic Search ###
-### References ###
 
 ## Sexual Harassment ##
 - What is Sexual Harassment.
@@ -33,4 +31,5 @@
 
 ## Focus Management ##
 
+## Software Developer - Good Practices ##
 
